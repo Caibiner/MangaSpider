@@ -1,3 +1,12 @@
+____________
+
+关于url的参数
+
+是在你想下载的漫画页面中 F12->NETWORK
+中随便找一张漫画中的图的URL里截取部分。
+例如 http://mhua.zerobyw4.com/manhua/S9na9im6o/23/93.jpg
+    截取http://mhua.zerobyw4.com/manhua/S9na9im6o/
+————————————
 from lxml import etree
 import requests
 from selenium import webdriver
