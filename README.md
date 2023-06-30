@@ -1,2 +1,2 @@
 # MangaSpider
-some spider for download manga
+Sipder for downloading manga
